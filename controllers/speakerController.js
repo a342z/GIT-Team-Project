@@ -116,3 +116,4 @@ exports.deleteSpeaker = async (request, response, next) => {
     next(new Error("Not Authorized. Only admin can do that"));
   }
 };
+console.log("reem elmansy with her team ");
