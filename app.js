@@ -87,9 +87,4 @@ app.use((error, request, response, next) => {
     response.status(status).json({ Error: error + "" });
 })
 
-<<<<<<< HEAD
 console.log("adel is the best")
-=======
-console.log("ahmedkamal");
->>>>>>> a8747185ceb4dd621f100797ff40449389f4b9da
-
