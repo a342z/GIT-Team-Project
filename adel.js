@@ -1,5 +1,0 @@
-class IloveJavaScript{
-    constructor()
-    constructor()
-
-}
