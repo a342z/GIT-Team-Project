@@ -2,11 +2,11 @@
 
 -Learning GIT With 
 
-#our Team:
+# our Team:
 
-*Abdulrahman Zaki
-*Adel EL Far
-*Ahmed Kamal
-*Ahmed EL Manzalawy
-*Hassan Ossama
-*Reem Abdelhamed
+* Abdulrahman Zaki
+* Adel EL Far
+* Ahmed Kamal
+* Ahmed EL Manzalawy
+* Hassan Ossama
+* Reem Abdelhamed
