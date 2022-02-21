@@ -105,19 +105,9 @@ console.log("reem");
 
 
 
-<<<<<<< HEAD
 
 
-
-
-
-
-
-
-
-=======
 console.log("hassan")
->>>>>>> 5f73d9bc343c6c45983af871507aab934539bae9
 
 
 
