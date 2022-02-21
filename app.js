@@ -92,18 +92,6 @@ console.log("no zaki");
 console.log("adel");
 console.log("no reem");
 
+console.log("elmanzlawy ");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-console.log("no hassan")
+console.log("no hassan");
