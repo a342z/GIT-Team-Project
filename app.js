@@ -77,7 +77,6 @@ app.use(authenticationRouter);
 app.use(speakerRouter);
 app.use(studentRouter);
 app.use(eventRouter);
-console.log("ahmed kamal");
 //Not found MW
 app.use((request, response) => {
   response.status(404).json({ data: "Not Found" });
@@ -119,3 +118,18 @@ console.log("reem");
 =======
 console.log("hassan")
 >>>>>>> 5f73d9bc343c6c45983af871507aab934539bae9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log("ahmed kamal");
