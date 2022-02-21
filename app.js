@@ -88,7 +88,7 @@ app.use((error, request, response, next) => {
   let status = error.status || 500;
   response.status(status).json({ Error: error + "" });
 });
-
+console.log("zaki");
 console.log("adel");
 console.log("reem");
 
@@ -106,6 +106,7 @@ console.log("reem");
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -115,3 +116,6 @@ console.log("reem");
 
 
 
+=======
+console.log("hassan")
+>>>>>>> 5f73d9bc343c6c45983af871507aab934539bae9
