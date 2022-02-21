@@ -1,0 +1,23 @@
+{
+  "name": "git-team-project",
+  "version": "1.0.0",
+  "description": "Learning GIT With team\r Team:\r Abdulrahman Zaki\r Adel EL Far\r Ahmed Kamal\r Ahmed EL Manzalawy\r Hassan Ossama\r Reem Abdelhamed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a342z/GIT-Team-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a342z/GIT-Team-Project/issues"
+  },
+  "homepage": "https://github.com/a342z/GIT-Team-Project#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
