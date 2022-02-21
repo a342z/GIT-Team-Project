@@ -1,0 +1,3 @@
+class IloveJavaScript{
+    constructor()
+}
