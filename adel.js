@@ -1,3 +1,5 @@
 class IloveJavaScript{
     constructor()
+    constructor()
+
 }
