@@ -9,7 +9,7 @@ module.exports = (request, response, next) => {
         decode = jwt.verify(token, process.env.SECRET_KEY)
     }
     catch (error) {
-        error.message = "Not Authorized";
+        error.message = "Not Authorized";//not auth for any  one
         error.status = 403;
         next(error);
     }
